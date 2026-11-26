@@ -10,10 +10,10 @@
 // WIFI CONFIGURATION
 // ======================================
 
-const char* WIFI_SSID = "Raphael's A56";
-const char* WIFI_PASSWORD = "1223456789";
+const char* WIFI_SSID = "Wifi Name";
+const char* WIFI_PASSWORD = "Wifi Password";
 
-const char* SERVER_URL = "http://10.237.106.160:8000";
+const char* SERVER_URL = "http://ip:8000";
 
 // ======================================
 // DISPLAY AND TOUCHSCREEN
